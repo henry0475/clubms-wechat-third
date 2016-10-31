@@ -6,3 +6,4 @@
  * Time: 下午10:41
  */
 echo "test";
+echo "123456";
